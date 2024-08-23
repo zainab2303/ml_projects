@@ -1,2 +1,2 @@
 # ml_projects
-A brief overview of the ML projects I have worked on
+A collection of machine learning projects I have worked on
